@@ -1,4 +1,7 @@
 
+<div align="center">
+
+
 ## Hello, I'm Rafael Bernardes 😊
 
 
@@ -9,7 +12,11 @@
 <div>
 
 
-🧠 About Me:
+ 🧠 About Me 
+
 
 
 🧑‍🏫 University student of Systems Analysis and Development
+
+
+</div>
